@@ -1,8 +1,9 @@
-
-hola como estas
+hi
 primer proyecto con git
 
+que mas pues sigo aqui 
 muy entretenido 
 
 :)
 todo bien por ahora
+
