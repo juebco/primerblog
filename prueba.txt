@@ -1,8 +1,5 @@
 hi
-primer proyecto con git
-
-que mas pues sigo aqui 
-muy entretenido 
+Plantilla  Básica  Html, Css
 
 :)
 todo bien por ahora
